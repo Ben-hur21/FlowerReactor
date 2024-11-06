@@ -41,6 +41,10 @@ This setup provides an interactive way to simulate phototropism, where plants mo
 2. **Upload Code**: Write and upload the Arduino code that reads light levels and controls both the LEDs and servo motor.
 3. **Test**: Adjust light levels to observe the flower's movement in response to sunlight simulation.
 
+## Media
+- **Wiring Photos**: Photos of the wiring and setup are included to help with circuit assembly.
+- **Demo Video**: Watch a video of the flower in action, responding to different light levels. This video demonstrates the full setup and how each light level changes the flower's orientation.
+
 ## Usage
 - **Simulate Light Conditions**: Adjust the light shining on the sensor.
 - **Observe Flower Movement**: Watch how the flower responds by adjusting its position, mimicking real plant behavior.
